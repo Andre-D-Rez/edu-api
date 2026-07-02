@@ -1,1 +1,1 @@
-# EDU-API
+# EDU API
